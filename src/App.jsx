@@ -1,9 +1,9 @@
-import RenderVideo from "./components/RenderVideo";
+import RenderUsers from "./components/RenderUsers";
 
 function App() {
   return (
-    <div className="bg-gray-600 h-dvh">
-      <RenderVideo />
+    <div className="bg-gray-600 h-dvh p-4">
+      <RenderUsers />
     </div>
   );
 }
